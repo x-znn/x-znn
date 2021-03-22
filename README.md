@@ -38,7 +38,4 @@
 </a>
 <a href="https://github.com/Zalleya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvstr&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&theme=tokyonight" alt="Zalleya's GitHub Stats"/>
- <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlavyanDesu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-  
 </a>
