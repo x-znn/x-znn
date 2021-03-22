@@ -17,9 +17,6 @@
   
 ## <h3 align="left">Reach with me via:</h3>
 
-<p align="center">
-  <a href="https://github.com/Zalleya"><img title="Author" src="https://img.shields.io/badge/Author-Zalleya-purple.svg?style=for-the-badge&logo=github" /><
-<\p>
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zalleya.su)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_fauzan2k19)
