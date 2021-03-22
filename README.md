@@ -34,6 +34,6 @@
 <a href="https://github.com/lvstr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvstr&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/lvstr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvstr&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&theme=tokyonight" alt="lvstr's GitHub Stats"/>
+<a href="https://github.com/Zalleya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvstr&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&theme=tokyonight" alt="Zalleya's GitHub Stats"/>
 </a>
