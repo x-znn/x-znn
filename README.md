@@ -31,7 +31,7 @@
 
 ## <h3 align="left">&#x1f4c8; GitHub Stats</h3>
 
-<a href="https://github.com/lvstr">
+<a href="https://github.com/Zalleya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvstr&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Zalleya">
