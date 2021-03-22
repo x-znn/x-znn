@@ -22,10 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_fauzan2k19)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281344291903)
-<h4 align="center">
-  <a href="https://github.com/Zalleya/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zalleya/Zalleya?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://chat.whatsapp.com/FVNkjx1tWFyJrjHzwMrxrm">JOIN GC FO FUN !!</a>
-</h4>
+
 </div>
   <br>
 
