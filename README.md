@@ -1,14 +1,13 @@
-<h1 align="center">Hi there, I'm Fauzan <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h1>
+## Hi there, I'm Fauzann <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on **Scholarship Project**
-- 🌱 I’m currently learning **Front End Web Development**
-- ✨ I'm Interested in **Nothing lol**
-- ⚡ I like **Music** and **Chocolate Milk**
+- 🔭 I’m currently working on my side project
+- 🌱 I’m currently learning typescript
+- ✨ Interested in backend-ish things 
+- 🤔 Looking for help with my life
 
-<br>
 
 ## <h3 align="left">Playing Music:</h3>
 
