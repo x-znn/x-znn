@@ -26,10 +26,8 @@
 </div>
   <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zalleya&show_icons=true&count_private=true" alt="smashah" /></p>
-
 ## <h3 align="left">&#x1f4c8; GitHub Stats</h3>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zalleya&show_icons=true&count_private=true" alt="Zalleya" /></p>
 <a href="https://github.com/Zalleya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvstr&layout=compact&hide_border=true&theme=tokyonight" />
 </a>
