@@ -21,8 +21,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zalleya&show_icons=true&hide_border=true&hide=issues" alt="🦉Zalleya's github stats">
 </details>
 
-<Reach whit me via>  
-  
+<details>  
+  <summary><b>Connect with me</b></summary>
+  <p align="center">
+    
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zalleya.su)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_fauzan2k19)
