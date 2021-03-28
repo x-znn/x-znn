@@ -1,6 +1,6 @@
 ## Hi there, I'm Fauzann <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on my side project
